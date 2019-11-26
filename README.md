@@ -60,7 +60,7 @@ Acceptance and component tests can be found in the `cypress/integration` and `sr
 * **Zane**- [GitHub Profile](https://github.com/zanenkn) - [Portfolio Website](https://zanenkn.netlify.com/)
 * **Stefan** - [GitHub Profile](https://github.com/stefankarlberg) - [Portfolio Website](https://mystifying-einstein-390384.netlify.com/)
 * **Felix** - [GitHub Profile](https://github.com/leiter007) - [Portfolio Website](https://felix-react-portfolio.netlify.com/)
-* **Boa** - [GitHub Profile](https://github.com/SnailCoder1) - [Portfolio Website](https://boamatule.netlify.com/)
+* **Boa** - [GitHub Profile](https://github.com/SnailCoder1) - [Portfolio Website](https://boa.netlify.com/)
 * **raptorf1** - [GitHub Profile](https://github.com/raptorf1) - [Portfolio Website](https://gtomaras-portfolio.netlify.com/)
 
 # License
